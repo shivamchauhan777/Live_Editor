@@ -22,7 +22,7 @@ A powerful **real-time collaborative text editor** built using **React**, **TipT
 ## Installation
 
 ```bash
-git clone https://github.com/shivamchauhan777/Live_Editor
+git clone https://github.com/shivamchauhan777/shivam-chauhan-wasserstoff-FrontEndInternTask
 cd Live_Editor
 npm install
 npm run dev
